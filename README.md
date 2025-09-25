@@ -67,17 +67,16 @@ python scripts/predict_g_classifier.py \
 ## 📓 Interactive Notebook
 All data loading, preprocessing, model training, and evaluation live in the Jupyter notebook:
 1. 	Spectrogram generation
-<img src="https://github.com/user-attachments/assets/sample-spectrogram.png" width="571" height="455" alt="Spectrogram Sample" />
+
+<img width="917" height="523" alt="Music-Waveform-Sample-Screenshot 2025-09-25 092120" src="https://github.com/user-attachments/assets/f08e3f1a-157a-4fb5-a696-bdd868ba6229" />
 
 2. 	Model architecture
-<img src="https://github.com/user-attachments/assets/model-architecture.png" width="597" height="372" alt="Model Architecture" />
 
-3. 	Training accuracy
-<img src="https://github.com/user-attachments/assets/training-accuracy.png" width="547" height="413" alt="Training Accuracy" />
+<img width="892" height="1090" alt="Music-Genre-Model-Screenshot 2025-09-25 091948" src="https://github.com/user-attachments/assets/5b91cdea-b0af-4fd0-b474-a8603934c3e3" />
 
-4. 	Training loss
-<img src="https://github.com/user-attachments/assets/training-loss.png" width="547" height="418" alt="Training Loss" />
+4. 	Training accuracy & Training loss
 
+<img width="989" height="479" alt="Training_Loss" src="https://github.com/user-attachments/assets/0107cdbf-b12b-456a-89f9-82fdd4885cce" />
 
 
 ## 📐 Model Architecture
