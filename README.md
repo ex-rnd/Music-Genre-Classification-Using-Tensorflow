@@ -3,7 +3,7 @@ A deep-learning project that classifies short audio clips into one of ten music 
 
 ## ✳️ Visual Overview 
 
-https://github.com/user-attachments/assets/75b68583-e15e-4e30-9a8f-c42a8230bc3a
+https://github.com/user-attachments/assets/78198f10-31bc-4046-b07e-18e835c2fb56
 
 
 ## 📹 Demo
